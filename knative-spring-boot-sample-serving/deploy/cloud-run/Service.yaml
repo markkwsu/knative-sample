@@ -1,0 +1,13 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+   name: knative-spring-boot-sample-serving
+spec:
+   template:
+      metadata:
+         name: knative-spring-boot-sample-serving-2
+      spec:
+         containers:
+         -  image: asia.gcr.io/test-marksu-idv-tw/knative-spring-boot-sample-serving:v2
+            ports:
+            -  containerPort: 8080
