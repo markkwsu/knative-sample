@@ -18,7 +18,7 @@
 -   Docker Desktop（[https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)）
 -   Google Cloud SDK（[https://cloud.google.com/sdk](https://cloud.google.com/sdk)）
 -   Apache Maven（[https://maven.apache.org/](https://maven.apache.org/)）如果不用 Eclipse 就需要它
--   Eclipse for JavaEE（[https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-06/R/eclipse-jee-2020-06-R-macosx-cocoa-x86_64.dmg](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-06/R/eclipse-jee-2020-06-R-macosx-cocoa-x86_64.dmg)）如果有裝 Eclipse 就不需要 Maven
+-   Eclipse for JavaEE（[https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2022-06/R/eclipse-jee-2022-06-R-macosx-cocoa-x86_64.dmg](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2022-06/R/eclipse-jee-2022-06-R-macosx-cocoa-x86_64.dmg)）如果有裝 Eclipse 就不需要 Maven
 - 配置好 Docker push 到 GCP Container Registry，參考：[https://cloud.google.com/container-registry/docs/pushing-and-pulling](https://cloud.google.com/container-registry/docs/pushing-and-pulling)
 
 # 兩個範例程式
